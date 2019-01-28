@@ -343,7 +343,7 @@ a.nav-toggle-button {
 .home .slider-wrap {
     background-size: cover;
     background-position: 80% 50%;
-    background-image: url(/wp-content/uploads/2017/11/whisp.png);
+    background-image: url(../../../../wp-content/uploads/2017/11/whisp.png);
     display: flex;
     height: 100vh;
 }
@@ -403,7 +403,7 @@ a.nav-toggle-button {
     position: absolute;
     height: 100%;
     width: 100%;
-    background-image: url(http://hackwcu.org/wp-content/uploads/2018/01/rambg.jpg);
+    background-image: url(../../../../wp-content/uploads/2018/01/rambg.jpg);
     opacity: .2;
     background-size: cover;
 }
